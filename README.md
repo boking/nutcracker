@@ -1,7 +1,5 @@
 # Nutcracker（Twemproxy）
 
-* author : yongfeimiao
-* date : 2015.12.01
 
 ## 1、什么是Nutcracker
 * Nutcracker，又称Twemproxy（读音："two-em-proxy"）是支持memcached和redis协议的快速、轻量级代理；
